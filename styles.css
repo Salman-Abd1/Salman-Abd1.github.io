@@ -1,0 +1,31 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.section-title {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-top: 1px solid #e4e5e7;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
